@@ -6,18 +6,3 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# Environnements virtuels
-env/
-venv/
-ENV/
-VENV/
-
-# Fichiers logs
-*.log
-
-# Fichiers temporaires
-*.tmp
-*.swp
-*.bak
-
